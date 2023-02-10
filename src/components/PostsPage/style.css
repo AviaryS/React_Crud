@@ -1,0 +1,14 @@
+.posts {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.post {
+    height: 500px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
